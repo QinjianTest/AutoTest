@@ -1,0 +1,50 @@
+{
+  "uid" : "e06947d4eb56ea3a",
+  "name" : "测试用例标题2",
+  "fullName" : "testcase.t_allure.allure_demo#test_2",
+  "historyId" : "e3b11dbe37ae61de2c75b3b5f9dd30d9",
+  "time" : {
+    "start" : 1567679954155,
+    "stop" : 1567679954155,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcase.t_allure"
+  }, {
+    "name" : "suite",
+    "value" : "allure_demo"
+  }, {
+    "name" : "host",
+    "value" : "wuyanhongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "16596-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.t_allure.allure_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e06947d4eb56ea3a.json",
+  "parameterValues" : [ ]
+}

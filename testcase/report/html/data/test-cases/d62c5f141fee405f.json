@@ -1,0 +1,81 @@
+{
+  "uid" : "d62c5f141fee405f",
+  "name" : "Info_2获取个人信息正确",
+  "fullName" : "testcase.test_excel_case.TestExcel#test_run[case0]",
+  "historyId" : "3fc60a1e35323350a94bb4558e32a443",
+  "time" : {
+    "start" : 1567740567846,
+    "stop" : 1567740568324,
+    "duration" : 478
+  },
+  "description" : "<font color='red'>请求URL: http://211.103.136.242:8064/user/</font> <Br/><font color='red'>请求类型: get</font><Br/><font color='red'>期望结果: id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'</font><Br/><font color='red'>实际结果: {'code': 200, 'body': {'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com', 'email_active': True}}</font>",
+  "descriptionHtml" : "<p><font color='red'>请求URL: http://211.103.136.242:8064/user/</font> <Br/><font color='red'>请求类型: get</font><Br/><font color='red'>期望结果: id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'</font><Br/><font color='red'>实际结果: {'code': 200, 'body': {'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com', 'email_active': True}}</font></p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "<font color='red'>请求URL: http://211.103.136.242:8064/user/</font> <Br/><font color='red'>请求类型: get</font><Br/><font color='red'>期望结果: id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'</font><Br/><font color='red'>实际结果: {'code': 200, 'body': {'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com', 'email_active': True}}</font>",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "394139a2b2cab712",
+      "name" : "log",
+      "source" : "394139a2b2cab712.txt",
+      "type" : "text/plain",
+      "size" : 106
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "美多商城接口测试"
+  }, {
+    "name" : "story",
+    "value" : "个人信息"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_excel_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestExcel"
+  }, {
+    "name" : "host",
+    "value" : "wuyanhongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "22014-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_excel_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'用例ID': 'Info_2', '模块': '个人信息', '接口名称': '获取个人信息正确', '请求URL': '/user/', '前置条件': 'login_4', '请求类型': 'get', '请求参数类型': '', '请求参数': '', '预期结果': \"id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'\", '实际结果': '', '备注': '', '是否运行': 'y', 'headers': '{\"Authorization\": \"JWT ${token}$\"}', 'cookies': '', 'status_code': 200.0, '数据库验证': \"select id,username,mobile,email from tb_users where username='python'\"}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d62c5f141fee405f.json",
+  "parameterValues" : [ "{'用例ID': 'Info_2', '模块': '个人信息', '接口名称': '获取个人信息正确', '请求URL': '/user/', '前置条件': 'login_4', '请求类型': 'get', '请求参数类型': '', '请求参数': '', '预期结果': \"id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'\", '实际结果': '', '备注': '', '是否运行': 'y', 'headers': '{\"Authorization\": \"JWT ${token}$\"}', 'cookies': '', 'status_code': 200.0, '数据库验证': \"select id,username,mobile,email from tb_users where username='python'\"}" ]
+}

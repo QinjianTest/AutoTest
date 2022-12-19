@@ -1,0 +1,96 @@
+2019-09-05 10:46:41,179 Requests DEBUG 发送post请求 
+2019-09-05 10:46:41,649 Requests DEBUG 发送get请求 
+2019-09-05 12:05:35,363 Requests DEBUG 发送post请求 
+2019-09-05 12:06:58,383 Requests DEBUG 发送post请求 
+2019-09-05 12:06:58,874 Requests DEBUG 发送get请求 
+2019-09-05 12:07:16,085 Requests DEBUG 发送post请求 
+2019-09-05 12:07:47,616 Requests DEBUG 发送post请求 
+2019-09-05 12:09:44,395 Requests DEBUG 发送post请求 
+2019-09-05 12:09:47,563 Requests DEBUG 发送post请求 
+2019-09-05 14:13:11,654 Requests DEBUG 发送post请求 
+2019-09-05 14:29:16,867 Requests DEBUG 发送post请求 
+2019-09-05 14:29:17,420 Requests DEBUG 发送get请求 
+2019-09-05 14:29:53,050 Requests DEBUG 发送post请求 
+2019-09-05 14:29:53,553 Requests DEBUG 发送get请求 
+2019-09-05 14:38:49,492 Requests DEBUG 发送post请求 
+2019-09-05 14:38:50,049 Requests DEBUG 发送get请求 
+2019-09-05 15:13:00,800 Requests DEBUG 发送post请求 
+2019-09-05 15:13:01,495 Requests DEBUG 发送get请求 
+2019-09-05 15:14:48,826 Requests DEBUG 发送post请求 
+2019-09-05 15:14:49,236 Requests DEBUG 发送get请求 
+2019-09-05 15:15:10,523 Requests DEBUG 发送post请求 
+2019-09-05 15:15:11,031 Requests DEBUG 发送get请求 
+2019-09-05 15:15:38,166 Requests DEBUG 发送post请求 
+2019-09-05 15:15:38,616 Requests DEBUG 发送get请求 
+2019-09-05 15:16:51,941 Requests DEBUG 发送post请求 
+2019-09-05 15:16:52,607 Requests DEBUG 发送get请求 
+2019-09-05 15:17:53,960 Requests DEBUG 发送post请求 
+2019-09-05 15:17:54,443 Requests DEBUG 发送get请求 
+2019-09-05 15:18:21,916 Requests DEBUG 发送post请求 
+2019-09-05 15:18:22,395 Requests DEBUG 发送get请求 
+2019-09-05 15:18:58,522 Requests DEBUG 发送post请求 
+2019-09-05 15:18:59,073 Requests DEBUG 发送get请求 
+2019-09-05 15:19:17,309 Requests DEBUG 发送post请求 
+2019-09-05 15:19:18,019 Requests DEBUG 发送get请求 
+2019-09-05 15:20:04,909 Requests DEBUG 发送post请求 
+2019-09-05 15:20:05,608 Requests DEBUG 发送get请求 
+2019-09-05 15:20:25,000 Requests DEBUG 发送post请求 
+2019-09-05 15:20:25,304 Requests DEBUG 发送get请求 
+2019-09-05 15:20:25,349 AssertUtil ERROR 不包含或者body是错误，body is {"id": 1, "username": "python", "mobile": "17701397029", "email": "952673638@qq.com", "email_active": true},expected_body is id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com' 
+2019-09-05 15:21:07,390 Requests DEBUG 发送post请求 
+2019-09-05 15:21:07,847 Requests DEBUG 发送get请求 
+2019-09-05 15:21:27,545 Requests DEBUG 发送post请求 
+2019-09-05 15:21:28,055 Requests DEBUG 发送get请求 
+2019-09-05 15:21:28,155 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:21:45,543 Requests DEBUG 发送post请求 
+2019-09-05 15:21:45,872 Requests DEBUG 发送get请求 
+2019-09-05 15:21:45,946 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:22:05,748 Requests DEBUG 发送post请求 
+2019-09-05 15:22:06,119 Requests DEBUG 发送get请求 
+2019-09-05 15:22:06,196 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:22:21,810 Requests DEBUG 发送post请求 
+2019-09-05 15:22:22,098 Requests DEBUG 发送get请求 
+2019-09-05 15:22:22,177 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:23:27,384 Requests DEBUG 发送post请求 
+2019-09-05 15:23:27,855 Requests DEBUG 发送get请求 
+2019-09-05 15:23:28,008 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:24:08,725 Requests DEBUG 发送post请求 
+2019-09-05 15:24:09,337 Requests DEBUG 发送get请求 
+2019-09-05 15:24:09,450 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:25:45,138 Requests DEBUG 发送post请求 
+2019-09-05 15:25:45,460 Requests DEBUG 发送get请求 
+2019-09-05 15:25:45,574 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:25:57,519 Requests DEBUG 发送post请求 
+2019-09-05 15:25:58,116 Requests DEBUG 发送get请求 
+2019-09-05 15:25:58,239 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:27:34,403 Requests DEBUG 发送post请求 
+2019-09-05 15:27:34,948 Requests DEBUG 发送get请求 
+2019-09-05 15:27:35,049 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:28:35,762 Requests DEBUG 发送post请求 
+2019-09-05 15:28:36,288 Requests DEBUG 发送get请求 
+2019-09-05 15:28:36,460 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:28:39,690 Requests DEBUG 发送post请求 
+2019-09-05 15:28:40,160 Requests DEBUG 发送get请求 
+2019-09-05 15:28:40,274 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果为：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:30:21,648 Requests DEBUG 发送post请求 
+2019-09-05 15:30:22,175 Requests DEBUG 发送get请求 
+2019-09-05 15:36:41,294 Requests DEBUG 发送post请求 
+2019-09-05 15:36:41,586 Requests DEBUG 发送get请求 
+2019-09-05 15:37:04,730 Requests DEBUG 发送post请求 
+2019-09-05 15:37:05,166 Requests DEBUG 发送get请求 
+2019-09-05 15:37:05,226 AssertUtil ERROR code error,code is 200,expected_code is 2 
+2019-09-05 15:38:32,357 Requests DEBUG 发送post请求 
+2019-09-05 15:38:32,920 Requests DEBUG 发送get请求 
+2019-09-05 15:54:52,039 Requests DEBUG 发送post请求 
+2019-09-05 15:54:52,695 Requests DEBUG 发送get请求 
+2019-09-05 15:54:52,800 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 查询数据库结果：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 15:55:50,525 Requests DEBUG 发送post请求 
+2019-09-05 15:55:51,228 Requests DEBUG 发送get请求 
+2019-09-05 16:01:31,609 Requests DEBUG 发送post请求 
+2019-09-05 16:01:31,954 Requests DEBUG 发送get请求 
+2019-09-05 16:01:32,056 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 数据库查询结果：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 16:10:20,521 Requests DEBUG 发送post请求 
+2019-09-05 16:10:21,089 Requests DEBUG 发送get请求 
+2019-09-05 16:10:21,181 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 数据库查询结果：{'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'} 
+2019-09-05 16:16:38,260 Requests DEBUG 发送post请求 
+2019-09-05 16:16:38,742 Requests DEBUG 发送get请求 

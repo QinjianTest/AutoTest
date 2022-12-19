@@ -1,0 +1,6 @@
+2019-09-09 21:26:19,379 Requests DEBUG 发送post请求 
+2019-09-09 21:26:19,892 Requests DEBUG 发送get请求 
+2019-09-09 21:26:20,030 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py INFO 报告地址 
+2019-09-09 21:26:57,109 Requests DEBUG 发送post请求 
+2019-09-09 21:26:57,647 Requests DEBUG 发送get请求 
+2019-09-09 21:26:57,734 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py INFO 报告地址 

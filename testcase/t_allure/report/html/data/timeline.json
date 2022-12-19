@@ -1,0 +1,113 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "wuyanhongdeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "17266-MainThread",
+      "children" : [ {
+        "name" : "测试用例标题1",
+        "uid" : "7c7f17b809c76da5",
+        "parentUid" : "9a47f0d48084d0991b785290a985498d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567681785843,
+          "stop" : 1567681785843,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试用例标题2",
+        "uid" : "81ffc583d645dca7",
+        "parentUid" : "9a47f0d48084d0991b785290a985498d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567681785848,
+          "stop" : 1567681785848,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "case1",
+        "uid" : "9b8c216c9502669c",
+        "parentUid" : "9a47f0d48084d0991b785290a985498d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567681785853,
+          "stop" : 1567681785853,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'case1'" ]
+      }, {
+        "name" : "case2",
+        "uid" : "887296c4c4d9633c",
+        "parentUid" : "9a47f0d48084d0991b785290a985498d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567681785858,
+          "stop" : 1567681785858,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'case2'" ]
+      }, {
+        "name" : "测试用例标题3",
+        "uid" : "e02b08cca6465c72",
+        "parentUid" : "9a47f0d48084d0991b785290a985498d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567681785850,
+          "stop" : 1567681785850,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a47f0d48084d0991b785290a985498d"
+    }, {
+      "name" : "16877-MainThread",
+      "children" : [ {
+        "name" : "测试用例标题3",
+        "uid" : "9dda7ff100b34a28",
+        "parentUid" : "fe7b459948d3bd091d7fbb8aa219fd5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567680729123,
+          "stop" : 1567680729123,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试用例标题1",
+        "uid" : "9348b7dea51a1a3c",
+        "parentUid" : "fe7b459948d3bd091d7fbb8aa219fd5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567680729119,
+          "stop" : 1567680729119,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "测试用例标题2",
+        "uid" : "457046c819c3b5d2",
+        "parentUid" : "fe7b459948d3bd091d7fbb8aa219fd5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1567680729121,
+          "stop" : 1567680729121,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fe7b459948d3bd091d7fbb8aa219fd5b"
+    } ],
+    "uid" : "730ccbc3a1bf19d1ae1c34ca552389b8"
+  } ]
+}

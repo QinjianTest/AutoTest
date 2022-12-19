@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "test_excel_case",
+      "children" : [ {
+        "name" : "TestExcel",
+        "children" : [ {
+          "name" : "Info_2获取个人信息正确",
+          "uid" : "95aa1c0047faccd7",
+          "parentUid" : "01a035628cc56a5f75bf1de166ed7b86",
+          "status" : "passed",
+          "time" : {
+            "start" : 1567753716147,
+            "stop" : 1567753717052,
+            "duration" : 905
+          },
+          "flaky" : true,
+          "parameters" : [ "{'用例ID': 'Info_2', '模块': '个人信息', '接口名称': '获取个人信息正确', '请求URL': '/user/', '前置条件': 'login_4', '请求类型': 'get', '请求参数类型': '', '请求参数': '', '预期结果': \"id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'\", '实际结果': '', '备注': '', '是否运行': 'y', 'headers': '{\"Authorization\": \"JWT ${token}$\"}', 'cookies': '', 'status_code': 200.0, '数据库验证': \"select id,username,mobile,email from tb_users where username='python'\"}" ]
+        } ],
+        "uid" : "01a035628cc56a5f75bf1de166ed7b86"
+      } ],
+      "uid" : "cb5e7bba57ac0480e8724ea820f056c5"
+    } ],
+    "uid" : "7d3977dcbf31acd3e26ecbe96342e45e"
+  } ]
+}

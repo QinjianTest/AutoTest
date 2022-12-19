@@ -1,0 +1,5 @@
+2019-09-01 17:17:28,470 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG this is a debug 
+2019-09-01 17:20:41,739 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG this is a debug 
+2019-09-01 17:22:25,292 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG 发送post请求 
+2019-09-01 17:23:47,710 /Users/wuyanhong/PycharmProjects/InterAutoTest_W/utils/LogUtil.py DEBUG this is a debug 
+2019-09-01 17:26:40,453 Requests DEBUG 发送post请求 

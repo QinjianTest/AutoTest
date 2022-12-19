@@ -1,0 +1,11 @@
+[ {
+  "uid" : "33cbc1fbe9d549ed",
+  "name" : "Info_2获取个人信息正确",
+  "time" : {
+    "start" : 1567767686352,
+    "stop" : 1567767686958,
+    "duration" : 606
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

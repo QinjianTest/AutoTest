@@ -1,0 +1,61 @@
+{
+  "uid" : "8316edd0bf36c170",
+  "name" : "测试用例标题3",
+  "fullName" : "testcase.t_allure.allure_demo.TestAllure#test_3",
+  "historyId" : "66aff9bda965d3b72335fd20c9e0e216",
+  "time" : {
+    "start" : 1567681022962,
+    "stop" : 1567681022963,
+    "duration" : 1
+  },
+  "description" : "执行测试用例1的结果是test3",
+  "descriptionHtml" : "<p>执行测试用例1的结果是test3</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "这是一个二级标签：test3"
+  }, {
+    "name" : "feature",
+    "value" : "接口测试，这是一个一级标签"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase.t_allure"
+  }, {
+    "name" : "suite",
+    "value" : "allure_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAllure"
+  }, {
+    "name" : "host",
+    "value" : "wuyanhongdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "17012-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.t_allure.allure_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8316edd0bf36c170.json",
+  "parameterValues" : [ ]
+}

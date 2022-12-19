@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcase.test_excel_case",
+    "children" : [ {
+      "name" : "Info_2获取个人信息正确",
+      "uid" : "33cbc1fbe9d549ed",
+      "parentUid" : "645ef3e19a3f503b7938566dde4922e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1567767686352,
+        "stop" : 1567767686958,
+        "duration" : 606
+      },
+      "flaky" : false,
+      "parameters" : [ "{'用例ID': 'Info_2', '模块': '个人信息', '接口名称': '获取个人信息正确', '请求URL': '/user/', '前置条件': 'login_4', '请求类型': 'get', '请求参数类型': '', '请求参数': '', '预期结果': \"id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'\", '实际结果': '', '备注': '', '是否运行': 'y', 'headers': '{\"Authorization\": \"JWT ${token}$\"}', 'cookies': '', 'status_code': 200.0, '数据库验证': \"select id,username,mobile,email from tb_users where username='python'\"}" ]
+    } ],
+    "uid" : "testcase.test_excel_case"
+  } ]
+}

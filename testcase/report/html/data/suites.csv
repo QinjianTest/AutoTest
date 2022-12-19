@@ -1,0 +1,2 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.test_excel_case.TestExcel#test_run[case0]","905","<font color='red'>请求URL-111: </font> http://211.103.136.242:8064/user/<Br/><font color='red'>请求类型: </font>get<Br/><font color='red'>期望结果: </font>id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com'<Br/><font color='red'>实际结果: </font>{'code': 200, 'body': {'id': 1, 'username': 'python', 'mobile': '17701397029', 'email': '952673638@qq.com', 'email_active': True}}"

@@ -1,0 +1,5 @@
+2019-09-01 11:08:51,520 log_file_demo INFO this is a info 
+2019-09-01 11:10:59,231 log_file_demo WARNING this is a warning 
+2019-09-01 11:33:46,830 log_file_demo WARNING this is a warning 
+2019-09-01 14:45:42,852 log_file_demo WARNING this is a warning 
+2019-09-01 16:14:01,794 log_file_demo WARNING this is a warning 
